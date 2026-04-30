@@ -4,6 +4,9 @@
     "email": "Oromorestudios@outlook.com"
   },
   "records": {
-    "CNAME": "oromorestudios-7pdjt10w00.edgeone.dev"
+    "CNAME": "oromorestudios-ntolnh3188.edgeone.dev",
+    "TXT": {
+      "edgeonerecliam.oromorestudios.is-a.dev": "reclaim-fku0y6mempb2mz8ufcwh7wi73gwicjge"
+    }
   }
 }
