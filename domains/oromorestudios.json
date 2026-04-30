@@ -5,8 +5,6 @@
   },
   "records": {
     "CNAME": "oromorestudios-ntolnh3188.edgeone.dev",
-    "TXT": {
-      "edgeonerecliam.oromorestudios.is-a.dev": "reclaim-fku0y6mempb2mz8ufcwh7wi73gwicjge"
-    }
+    "TXT": "reclaim-fku0y6mempb2mz8ufcwh7wi73gwicjge"
   }
 }
